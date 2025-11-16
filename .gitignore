@@ -1,0 +1,75 @@
+# Environment files
+.env
+.env.local
+.env.langflow
+*.env
+
+# Dependencies
+node_modules/
+medvet-ui/node_modules/
+
+# Build outputs
+medvet-ui/build/
+medvet-ui/dist/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# LangFlow
+langflow.db
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+hackathon.html
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production
+build/
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

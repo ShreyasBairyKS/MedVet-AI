@@ -1,0 +1,77 @@
+# Human Dermatology Reference Guide
+
+## Skin Lesion Types
+
+### Moles and Nevi
+- Benign pigmented lesions
+- Usually symmetric, well-defined borders
+- Consistent color (brown, tan, or skin-colored)
+- Monitor for ABCDE changes (Asymmetry, Border irregularity, Color variation, Diameter >6mm, Evolution)
+
+### Melanoma Warning Signs (ABCDE)
+- **A**symmetry: One half doesn't match the other
+- **B**order: Irregular, scalloped, or poorly defined edges
+- **C**olor: Multiple colors or uneven distribution
+- **D**iameter: Larger than 6mm (pencil eraser)
+- **E**volution: Changes in size, shape, or color
+
+### Eczema/Dermatitis
+- Red, inflamed patches
+- Itchy and may weep clear fluid
+- Often on flexural areas (elbows, knees)
+- Can be triggered by allergens, irritants, or stress
+
+### Psoriasis
+- Thick, scaly, silvery plaques
+- Commonly on elbows, knees, scalp
+- May have nail involvement
+- Chronic autoimmune condition
+
+## Acne and Rosacea
+
+### Acne vulgaris:
+- Comedones (blackheads/whiteheads)
+- Inflammatory papules and pustules
+- Most common in teenagers, but can persist in adults
+- Requires topical or oral treatments
+
+### Rosacea:
+- Facial redness, especially cheeks and nose
+- Visible blood vessels
+- May have papules/pustules (often mistaken for acne)
+- Triggers: alcohol, spicy food, sun exposure
+
+## Skin Infections
+
+### Bacterial (Cellulitis, Impetigo)
+- Warm, red, swollen area
+- May have pus-filled blisters
+- Requires antibiotic treatment
+
+### Fungal (Ringworm, Candida)
+- Circular, scaly patches with raised borders
+- Can spread to others
+- Antifungal treatment needed
+
+### Viral (Warts, Herpes)
+- Warts: small, rough bumps
+- Herpes: painful blisters in clusters
+- Often resolve on their own, but antivirals help
+
+## Recommended Actions by Condition
+
+### Immediate medical attention:
+- Rapidly growing or changing lesions
+- Bleeding or non-healing wounds
+- Signs of infection (fever, spreading redness)
+- Severe allergic reactions
+
+### Schedule appointment soon:
+- New or changing moles
+- Persistent rash >2 weeks
+- Painful skin conditions
+
+### Home care acceptable:
+- Minor dry skin
+- Mild acne
+- Known eczema with usual treatment

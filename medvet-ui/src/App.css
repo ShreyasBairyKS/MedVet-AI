@@ -1,0 +1,309 @@
+/* Tailwind CSS handles all styling now */
+/* Custom animations */
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+
+.container {
+  max-width: 900px;
+  width: 100%;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+
+/* Header */
+.header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.logo h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  opacity: 0.95;
+}
+
+/* Input Section */
+.input-section {
+  padding: 40px;
+}
+
+.form-group {
+  margin-bottom: 24px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #374151;
+  font-size: 0.95rem;
+}
+
+.form-group textarea {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: inherit;
+  transition: border-color 0.3s;
+  resize: vertical;
+}
+
+.form-group textarea:focus {
+  outline: none;
+  border-color: #667eea;
+}
+
+/* File Upload */
+.file-upload {
+  margin-bottom: 16px;
+}
+
+.file-upload input[type="file"] {
+  display: none;
+}
+
+.file-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 24px;
+  background: #f3f4f6;
+  border: 2px dashed #d1d5db;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s;
+  font-weight: 500;
+}
+
+.file-label:hover {
+  background: #e5e7eb;
+  border-color: #667eea;
+}
+
+.image-preview {
+  margin-top: 16px;
+  border-radius: 8px;
+  overflow: hidden;
+  max-width: 300px;
+}
+
+.image-preview img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Submit Button */
+.submit-btn {
+  width: 100%;
+  padding: 16px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.submit-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(102, 126, 234, 0.4);
+}
+
+.submit-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.spinner {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Error Box */
+.error-box {
+  margin: 20px 40px;
+  padding: 16px;
+  background: #fee2e2;
+  border: 2px solid #ef4444;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: #991b1b;
+}
+
+/* Results Section */
+.results-section {
+  padding: 40px;
+  background: #f9fafb;
+}
+
+.results-section h2 {
+  font-size: 2rem;
+  color: #111827;
+  margin-bottom: 24px;
+}
+
+/* Urgency Banner */
+.urgency-banner {
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  color: white;
+}
+
+.urgency-content {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.urgency-content h3 {
+  font-size: 1.3rem;
+  margin-bottom: 4px;
+}
+
+.urgency-content p {
+  opacity: 0.95;
+  font-size: 1rem;
+}
+
+/* Report Card */
+.report-card {
+  background: white;
+  padding: 32px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 24px;
+  line-height: 1.8;
+}
+
+.report-card h1, .report-card h2, .report-card h3 {
+  color: #111827;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+.report-card h1 {
+  font-size: 1.8rem;
+}
+
+.report-card h2 {
+  font-size: 1.5rem;
+}
+
+.report-card h3 {
+  font-size: 1.2rem;
+}
+
+.report-card p {
+  margin-bottom: 16px;
+  color: #374151;
+}
+
+.report-card ul {
+  margin-left: 24px;
+  margin-bottom: 16px;
+}
+
+.report-card li {
+  margin-bottom: 8px;
+  color: #374151;
+}
+
+.report-card strong {
+  color: #111827;
+}
+
+/* Disclaimer */
+.disclaimer {
+  background: #fef3c7;
+  border: 2px solid #f59e0b;
+  padding: 20px;
+  border-radius: 12px;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  color: #92400e;
+}
+
+.disclaimer p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 24px;
+  background: #f3f4f6;
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    margin: 10px;
+  }
+
+  .header {
+    padding: 30px 20px;
+  }
+
+  .logo h1 {
+    font-size: 2rem;
+  }
+
+  .input-section,
+  .results-section {
+    padding: 24px;
+  }
+
+  .results-section h2 {
+    font-size: 1.5rem;
+  }
+}

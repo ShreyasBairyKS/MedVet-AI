@@ -1,0 +1,76 @@
+# Sample Medical Knowledge Base - Common Dog Conditions
+
+## Limping and Lameness
+
+### Causes:
+- Sprains or strains (most common)
+- Arthritis (especially in older dogs)
+- Hip dysplasia
+- Torn ligaments (ACL/CCL tears)
+- Paw pad injuries
+- Bone fractures
+
+### Symptoms to watch for:
+- Reluctance to put weight on limb
+- Swelling around joints
+- Limping that worsens with activity
+- Yelping when touched
+
+### Recommended tests:
+- Physical examination
+- X-rays for bone issues
+- Joint manipulation tests
+- Blood tests for inflammatory markers
+
+### Treatment approaches:
+- Rest and limited activity (mild cases)
+- NSAIDs for pain/inflammation (vet prescribed)
+- Physical therapy
+- Surgery for severe cases (torn ligaments, fractures)
+
+### Urgency:
+- RED: Complete inability to bear weight, visible deformity
+- YELLOW: Progressive worsening, significant pain
+- GREEN: Mild limp, no other symptoms
+
+## Skin Conditions
+
+### Common canine dermatology issues:
+- Allergic dermatitis
+- Hot spots
+- Fungal infections
+- Bacterial infections
+- Parasites (fleas, mites)
+
+### Visual indicators:
+- Redness and inflammation
+- Hair loss
+- Crusty or scaly patches
+- Excessive scratching or licking
+
+### Diagnostic steps:
+- Skin scraping
+- Fungal culture
+- Allergy testing
+- Biopsy (severe cases)
+
+## Gastrointestinal Issues
+
+### Symptoms:
+- Vomiting
+- Diarrhea
+- Loss of appetite
+- Lethargy
+
+### Common causes:
+- Dietary indiscretion
+- Food allergies
+- Parasites
+- Inflammatory bowel disease
+- Foreign body obstruction
+
+### When to seek immediate care:
+- Bloody vomit or stool
+- Severe dehydration
+- Abdominal distension
+- Continuous vomiting for 24+ hours

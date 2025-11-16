@@ -1,0 +1,97 @@
+# Emergency Triage Guidelines - Medical and Veterinary
+
+## RED - IMMEDIATE CARE REQUIRED (Life-threatening)
+
+### Humans:
+- Chest pain with shortness of breath
+- Severe difficulty breathing
+- Uncontrolled bleeding
+- Loss of consciousness
+- Stroke symptoms (FAST: Face drooping, Arm weakness, Speech difficulty, Time to call 911)
+- Severe allergic reaction (anaphylaxis)
+- Major trauma or head injury
+- Seizures
+
+### Animals:
+- Difficulty breathing or choking
+- Uncontrollable bleeding
+- Unable to urinate (especially male cats)
+- Seizures lasting >5 minutes
+- Severe bloat (GDV - especially large dogs)
+- Collapse or inability to stand
+- Severe trauma
+- Toxin ingestion (confirmed or suspected)
+- Heatstroke
+
+## YELLOW - URGENT CARE (Within 24 hours)
+
+### Humans:
+- High fever (>103°F / 39.4°C)
+- Severe vomiting/diarrhea with dehydration
+- Moderate injuries requiring stitches
+- Severe pain not controlled by OTC medications
+- Sudden vision changes
+- Persistent bleeding
+- Signs of infection (redness, warmth, pus)
+
+### Animals:
+- Vomiting/diarrhea for >24 hours
+- Not eating for 24+ hours
+- Lethargy or behavior changes
+- Difficulty urinating
+- Eye injuries or sudden vision loss
+- Limping with no weight bearing
+- Open wounds
+- Persistent coughing
+
+## GREEN - NON-URGENT (Can wait 2-3 days or schedule routine visit)
+
+### Humans:
+- Minor cold/flu symptoms
+- Mild rash without fever
+- Minor cuts/scrapes
+- Mild sprains
+- Routine medication refills
+- Preventive care
+
+### Animals:
+- Mild limping that improves with rest
+- Minor scratches
+- Mild digestive upset (1-2 episodes)
+- Routine vaccinations
+- Mild skin irritation
+- Ear cleaning needs
+
+## Special Considerations
+
+### Pediatric (human) urgency modifiers:
+- Infants <3 months with ANY fever: RED
+- Dehydration in children: YELLOW
+- Fever with rash: YELLOW
+
+### Geriatric (human/animal) urgency modifiers:
+- Lower threshold for urgent care
+- Falls in elderly humans: YELLOW
+- Sudden behavior changes in senior pets: YELLOW
+
+### Breed-specific (veterinary):
+- Brachycephalic breeds (pugs, bulldogs): breathing issues = RED
+- Large/giant breeds: bloat symptoms = RED
+- Toy breeds: hypoglycemia risk = YELLOW
+
+## Pain Scale Reference
+
+### 0-3: Mild (GREEN)
+- Minor discomfort
+- Not affecting daily activities
+- OTC pain relief appropriate
+
+### 4-6: Moderate (YELLOW)
+- Noticeable discomfort
+- Affecting some activities
+- May need prescription pain management
+
+### 7-10: Severe (RED)
+- Extreme pain
+- Unable to function normally
+- Immediate medical attention needed
